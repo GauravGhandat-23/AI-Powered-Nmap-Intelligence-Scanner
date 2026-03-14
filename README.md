@@ -211,7 +211,7 @@ pip install python-nmap
 
 ## 📜 Licence
 
-MIT Licence — see `LICENSE` for details.
+GNU General Public License v3.0 — see `LICENSE` for details.
 
 ---
 
